@@ -1,0 +1,55 @@
+# 이건종 포트폴리오
+## 프로젝트
+
+### <span style="color: Green">- 팀 프로젝트</sapn>
+
+- ### **영화 리뷰** [(Git Link)](https://github.com/nikerun23/gradeprocess/tree/master/gradeprocess)
+- ### **애완동물 웹 사이트** [(바로가기)](https://github.com/nikerun23/gradeprocess/tree/master/gradeprocess)
+- ### **라면 MES 시스템** [(바로가기)](https://github.com/nikerun23/gradeprocess/tree/master/gradeprocess)
+
+### <span style="color: Green">- 개인 프로젝트</sapn>
+- ### **포켓몬 웹 디자인** [(바로가기)](https://github.com/nikerun23/gradeprocess/tree/master/gradeprocess)
+  
+<br>
+
+---
+
+
+## 코리아IT아카데미 이수 교육 내역서
+
+
+### 이수 과정명
+- (산대특)_(IoT융합) IoT를 이용한 C#기반 스마트팩토리 MES 개발자양성과정_육성
+### 교육 기간
+- 2022.12.30 ~ 2023.08.10
+### 교육 내용
+### **C# .NET 객체지향 프로그래밍 (224 시간)**<br>
+- 기본문법, 제어문, 배열, 클래스, 상속, 오버라이딩, Interface, Struct/Tuple, Collection, File, Delegate, Exception Lambda LINQ, Thread, Async, JSON/XML
+
+### **RDBMS SqlServer (56 시간)**<br>
+ - DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View, 트랜잭션 처리
+
+### **WinForm 애플리케이션 (80 시간)**<br>
+- 기본컨트롤, ListControl, Timer, Dialog, Chart, DataGrid, CRUD
+
+### **1차 프로젝트: C# 및 .NET 프레임워크를 활용한 영화리뷰 어플리케이션 구현 (총 48 시간 )**
+
+### **웹표준 (88 시간)**<br>
+- HTML, CSS, JavaScript, jQuery, BootStrap, fetch API, AJAX, 외부 API 활용
+
+### **ASP.NET Core (64 시간)**<br>
+- ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
+
+### **2차 프로젝트: ASP.NET Core MVC 기반 영화리뷰 웹 사이트 개발 (총 120 시간 )**<br>
+ 
+### **아두이노 & 시리얼통신 (80 시간)**<br>
+- 아두이노 회로 구성, 입출력 장치, 시리얼 통신, 데이터 수집, 시각화
+
+### **3차 프로젝트: 기업 생산관리 시스템 구축 프로젝트 (총 120 시간 )**<br>
+
+###  **실무자교육: 스마트SI php 기반 스마트공장 생산관리  (80 시간)**<br>
+웹 기반 스마트공장에 대한 이해, Lib_ROAD 라이브러리 활용 스마트팩토리 웹 프로젝트 기획 및 구축
+
+### **실무자 교육: ㈜ 리스너  Cleber.MES 구조 분석  (40 시간)**<br>
+콘솔 기반 스마트공장 프로세스에 대한 이해. Cleber.MES 솔루션 분석 및 이해
+
